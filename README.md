@@ -3,9 +3,13 @@ You should use this repository for your first group coursework in AC11002 / AC51
 
 ## Group Members
 Alter this subsection to add in all of your group members
+
 Iona Cavill 2498720@dundee.ac.uk
+
 Flynn Henderson 2502464@dundee.ac.uk
+
 Adam Munro 2455360@dundee.ac.uk
+
 Oscar Weir 2501017@dundee.ac.uk
 
 ## Group Website
