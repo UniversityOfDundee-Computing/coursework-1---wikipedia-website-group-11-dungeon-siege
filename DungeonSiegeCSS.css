@@ -30,6 +30,12 @@
    border-image: url(images/woodborder1.jpg) 30 round;
 }
 
+.stonebg
+{
+   background-image: url("images/lightStone.jpg");
+   background-repeat: no-repeat; 
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Niconne');
 /* Usage through #Niconne, font-family: 'Niconne'; etc */
    
