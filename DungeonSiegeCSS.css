@@ -1,5 +1,6 @@
 .stonebtn1
 {
+
    background-image: url("images/StoneButton1.jpg");
    background-repeat: no-repeat;
    color: white;
@@ -20,4 +21,13 @@
    background-repeat: no-repeat;
    color: white;
    border-color: black;
+
+   background-image: url("images/StoneButton1.jpg") 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Niconne');
+/* Usage through #Niconne, font-family: 'Niconne'; etc */
+   
+#Niconne {
+   font-family: 'Niconne';
 }
