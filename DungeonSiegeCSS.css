@@ -22,7 +22,12 @@
    color: white;
    border-color: black;
 
-   background-image: url("images/StoneButton1.jpg") 
+}
+
+.woodBorder
+{
+   border: 15px solid transparent;
+   border-image: url(images/woodborder1.jpg) 30 round;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Niconne');
