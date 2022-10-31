@@ -1,5 +1,27 @@
 .stonebtn1
 {
+
+   background-image: url("images/StoneButton1.jpg");
+   background-repeat: no-repeat;
+   color: white;
+   border-color: black;
+}
+
+.stonebtn2
+{
+   background-image: url("images/StoneButton2.jpg");
+   background-repeat: no-repeat;
+   color: white;
+   border-color: black;
+}
+
+.stonebtn3
+{
+   background-image: url("images/StoneButton3.jpg");
+   background-repeat: no-repeat;
+   color: white;
+   border-color: black;
+
    background-image: url("images/StoneButton1.jpg") 
 }
 
