@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+   
+#Niconne {
+   font-family: 'Niconne', cursive;
+}
+
+
+
 .stonebtn1
 {
 
@@ -30,9 +38,4 @@
    border-image: url(images/woodborder1.jpg) 30 round;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Niconne');
-/* Usage through #Niconne, font-family: 'Niconne'; etc */
-   
-#Niconne {
-   font-family: 'Niconne', cursive;
-}
+
