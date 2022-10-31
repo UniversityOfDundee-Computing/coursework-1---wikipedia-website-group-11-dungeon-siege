@@ -39,3 +39,14 @@
 }
 
 
+.stonebg
+{
+   background-image: url("images/lightStone.jpg");
+}
+
+.carouselStyle {
+   width: 50;
+   height: 580px;
+   max-height: 580px;
+   
+}
