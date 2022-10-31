@@ -27,7 +27,7 @@
 .woodBorder
 {
    border: 15px solid transparent;
-   border-image: url(images/woodborder1.jpg) 30 round;
+   border-image: url(images/woodborder1.jpg) 40 round;
 }
 
 .stonebg
