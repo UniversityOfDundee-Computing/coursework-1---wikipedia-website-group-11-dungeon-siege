@@ -42,3 +42,10 @@
 #Niconne {
    font-family: 'Niconne', cursive;
 }
+
+.carouselStyle {
+   width: 50;
+   height: 580px;
+   max-height: 580px;
+   
+}
