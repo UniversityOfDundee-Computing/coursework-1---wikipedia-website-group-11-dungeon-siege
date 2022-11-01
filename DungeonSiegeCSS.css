@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+   
+#Niconne {
+   font-family: 'Niconne', cursive;
+   font-size: 25px;
+}
+
+#NiconneLarge {
+   font-family: 'Niconne', cursive;
+   font-size: 50px;
+}
+
+
+
 .stonebtn1
 {
 
@@ -30,21 +44,13 @@
    border-image: url(images/woodborder1.jpg) 40 round;
 }
 
+
 .stonebg
 {
    background-image: url("images/lightStone.jpg");
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Niconne');
-/* Usage through #Niconne, font-family: 'Niconne'; etc */
-   
-#Niconne {
-   font-family: 'Niconne', cursive;
-}
-
 .carouselStyle {
    width: 50;
-   height: 580px;
    max-height: 580px;
-   
 }
