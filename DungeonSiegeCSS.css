@@ -41,7 +41,7 @@
 .woodBorder
 {
    border: 15px solid transparent;
-   border-image: url(images/woodborder1.jpg) 30 round;
+   border-image: url(images/woodborder1.jpg) 40 round;
 }
 
 
@@ -51,6 +51,11 @@
 }
 
 .carouselStyle {
-   width: 50;
-   max-height: 580px;
+   width: 100%;
+   height: auto;
+   
+}
+
+.carousel-caption {
+   background-color: rgba(0, 0, 0, 0.7);
 }
